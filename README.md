@@ -8,7 +8,7 @@
 
 ### `whoami`
 
-CS grad (Penn State) and full-time **IT Support Specialist** keeping several regional campuses running — but the title undersells it. I architect cross-campus asset-reconciliation systems, ship Power Platform tooling, and spend the off-hours co-founding **[Susquehanna Syntax](#)** and building a self-hosted AI stack in my basement.
+CS grad (Penn State) and full-time **IT Support Specialist** keeping several regional campuses running — but the title undersells it. I architect cross-campus asset-reconciliation systems and spend the off-hours co-founding **[Susquehanna Syntax](#)** and building a self-hosted AI stack in my basement.
 
 Open-core by default. Everything ships under one house style and a stubborn `-il` naming convention. Based in NEPA, quietly trying to turn the Wyoming Valley into a place you don't have to leave to do this work.
 
@@ -17,7 +17,7 @@ role      →  IT Support Specialist  ·  cross-campus systems  (Penn State)
 building  →  Susquehanna Syntax  ·  open-core, self-hosted, design-led
 homelab   →  AMD MI50 32GB · ROCm/gfx906 · llama.cpp router · ~48–51 t/s
 cert      →  Certified Extron Control Professional
-elsewhere →  NEPA transit & regional-dev nerd  ·  the Trillium Line will happen
+elsewhere →  NEPA transit & regional-dev nerd  ·  Trains are Awesome and WILL happen
 ```
 
 ---
@@ -71,7 +71,7 @@ elsewhere →  NEPA transit & regional-dev nerd  ·  the Trillium Line will happ
 
 ### Outside the terminal
 
-I write transit proposals for fun. There's a real one — the **Trillium Line**, a multi-color regional rail concept (RBMN partnership, public-capital estimate and all) aimed at the LCTA and the NEPA MPO. The long game: anchor a tech shop here and give the valley a reason to keep its talent.
+I write transit proposals for fun. There's a real one — the **Trillium Line**, a multi-color regional rail concept (RBMN partnership, public-capital estimate and all) aimed at the LCTA and the NEPA MPO.
 
 Also: Minecraft modpack dev (**Entropy³**, GregTech/KubeJS), and a weakness for well-made tooling.
 
