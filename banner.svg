@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connor — Susquehanna Syntax">
+  <!-- SQSY design language: charcoal base, six pastel accents, flat philosophy -->
+  <defs>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#c4b5fd"/>
+      <stop offset="20%" stop-color="#9ae6b4"/>
+      <stop offset="40%" stop-color="#f9a8c4"/>
+      <stop offset="60%" stop-color="#fdba74"/>
+      <stop offset="80%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect x="0" y="0" width="1200" height="300" rx="22" fill="#1c1c21"/>
+  <!-- surface panel -->
+  <rect x="16" y="16" width="1168" height="268" rx="18" fill="#26262d"/>
+  <!-- left accent bar -->
+  <rect x="52" y="70" width="6" height="160" rx="3" fill="#c4b5fd"/>
+
+  <!-- name -->
+  <text x="86" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#ececf1" letter-spacing="1">Connor</text>
+
+  <!-- role line -->
+  <text x="88" y="176" font-family="'SF Mono','IBM Plex Mono',Consolas,monospace" font-size="21" fill="#9a9aa6">
+    <tspan fill="#c4b5fd">IT&#160;Systems</tspan><tspan fill="#565660">&#160;&#47;&#47;&#160;</tspan><tspan fill="#9ae6b4">Full&#8209;Stack</tspan><tspan fill="#565660">&#160;&#47;&#47;&#160;</tspan><tspan fill="#7dd3fc">Self&#8209;Hosted&#160;AI</tspan>
+  </text>
+
+  <!-- sub tag -->
+  <text x="88" y="212" font-family="'SF Mono','IBM Plex Mono',Consolas,monospace" font-size="15" fill="#6d6d78">co&#8209;founder&#160;&#183;&#160;Susquehanna&#160;Syntax&#160;&#160;&#8226;&#160;&#160;building&#160;the&#160;-il&#160;line&#160;from&#160;NEPA</text>
+
+  <!-- six pastel accents (staggered pulse) -->
+  <g>
+    <circle cx="1044" cy="150" r="11" fill="#c4b5fd"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0s"   repeatCount="indefinite"/></circle>
+    <circle cx="1074" cy="150" r="11" fill="#9ae6b4"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0.35s" repeatCount="indefinite"/></circle>
+    <circle cx="1104" cy="150" r="11" fill="#f9a8c4"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0.7s"  repeatCount="indefinite"/></circle>
+    <circle cx="1044" cy="180" r="11" fill="#fdba74"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.05s" repeatCount="indefinite"/></circle>
+    <circle cx="1074" cy="180" r="11" fill="#7dd3fc"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.4s"  repeatCount="indefinite"/></circle>
+    <circle cx="1104" cy="180" r="11" fill="#fde68a"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.75s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- bottom hairline -->
+  <rect x="86" y="238" width="1028" height="2" rx="1" fill="url(#hair)" opacity="0.55"/>
+</svg>
