@@ -50,7 +50,8 @@ elsewhere →  NEPA transit & regional-dev nerd  ·  Trains are Awesome and WILL
 | Project | What it is | Stack |
 |---|---|---|
 | **Sigil** | Self-hosted AI chat app + my primary model testbed — SSE streaming, workspace multi-tenancy, Fernet-encrypted keys, plugin system | Django 5 · HTMX |
-| **Vigil** | Self-hosted infra monitoring & endpoint management with LLM-powered incident narration and a community task hub | Django/DRF · Celery · TimescaleDB · Go agent |
+| **Vigil** | Self-hosted endpoint management with security and docker integrations and a community task hub | Django/DRF · Celery · TimescaleDB · Python Agent |
+| **Jackil** | IT Ticket, Knowledge Base, and SLA manager with Automation | Django |
 | **Portil** | Authenticated reverse-proxy dashboard — Ed25519 task signing, bcrypt device tokens, wildcard Cloudflare ingress | Go |
 | **Urbanil** | 3D urban-planning desktop suite for sketching cities and transit | Java · jMonkeyEngine |
 | **Meetil** | A When2Meet that doesn't hurt to look at | — |
